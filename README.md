@@ -1,6 +1,6 @@
 <img src="1.png">
 
-# React Crate Template 👕👖📦
+# React Crate Template 
 
 #### Get monthly subscription of trendy clothes and accessories.
 - **API** built with Node, GraphQL, Express, Sequelize (MySQL) and JWT Auth
